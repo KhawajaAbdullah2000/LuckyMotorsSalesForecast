@@ -48,6 +48,6 @@ print(fore.head())
 import pickle
 
 # Assume 'm' is your trained NeuralProphet model
-with open('LocalModel.pkl', 'wb') as f:
+with open('MyLocalModel.pkl', 'wb') as f:
     pickle.dump(m, f)
     
