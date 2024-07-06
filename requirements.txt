@@ -2,3 +2,4 @@ flask
 git+https://github.com/ourownstory/neural_prophet.git
 lightning
 flask_cors
+open pyxl
